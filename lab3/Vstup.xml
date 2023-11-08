@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Abiturients>
+  <Abiturient>
+    <Surname>O'Connel</Surname>
+    <Sex>Male</Sex>
+    <GraduationYear>2022</GraduationYear>
+    <TotalPoint>600</TotalPoint>
+  </Abiturient>
+  <Abiturient>
+    <Surname>Henry</Surname>
+    <Sex>Male</Sex>
+    <GraduationYear>2022</GraduationYear>
+    <TotalPoint>340</TotalPoint>
+  </Abiturient>
+  <Abiturient>
+    <Surname>Holland</Surname>
+    <Sex>Male</Sex>
+    <GraduationYear>2023</GraduationYear>
+    <TotalPoint>323</TotalPoint>
+  </Abiturient>
+  <Abiturient>
+    <Surname>Silva</Surname>
+    <Sex>Female</Sex>
+    <GraduationYear>2022</GraduationYear>
+    <TotalPoint>540</TotalPoint>
+  </Abiturient>
+  <Abiturient>
+    <Surname>William</Surname>
+    <Sex>Female</Sex>
+    <GraduationYear>2023</GraduationYear>
+    <TotalPoint>250</TotalPoint>
+  </Abiturient>
+  <Abiturient>
+    <Surname>Johanson</Surname>
+    <Sex>Female</Sex>
+    <GraduationYear>2023</GraduationYear>
+    <TotalPoint>490</TotalPoint>
+  </Abiturient>
+</Abiturients>
