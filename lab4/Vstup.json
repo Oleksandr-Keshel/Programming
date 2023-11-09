@@ -1,0 +1,39 @@
+
+[
+    {
+    "surname": "Connel",
+    "sex": "Male",
+    "graduation_year": 2022,
+    "total_point": 600
+    },
+    {
+        "surname": "Henry",
+        "sex": "Male",
+        "graduation_year": 2022,
+        "total_point": 340
+    },
+    {
+        "surname": "Holland",
+        "sex": "Male",
+        "graduation_year": 2023,
+        "total_point": 323
+    },
+    {
+        "surname": "Silva",
+        "sex": "Female",
+        "graduation_year": 2022,
+        "total_point": 540
+    },
+    {
+        "surname": "William",
+        "sex": "Female",
+        "graduation_year": 2023,
+        "total_point": 250
+    },
+    {
+        "surname": "Johanson",
+        "sex": "Female",
+        "graduation_year": 2023,
+        "total_point": 490
+    }
+]

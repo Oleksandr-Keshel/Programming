@@ -1,0 +1,17 @@
+/Users/oleksandr/Desktop/ProgrammingCSharp/My Labs/lab4/bin/Debug/net7.0/lab4
+/Users/oleksandr/Desktop/ProgrammingCSharp/My Labs/lab4/bin/Debug/net7.0/lab4.deps.json
+/Users/oleksandr/Desktop/ProgrammingCSharp/My Labs/lab4/bin/Debug/net7.0/lab4.runtimeconfig.json
+/Users/oleksandr/Desktop/ProgrammingCSharp/My Labs/lab4/bin/Debug/net7.0/lab4.dll
+/Users/oleksandr/Desktop/ProgrammingCSharp/My Labs/lab4/bin/Debug/net7.0/lab4.pdb
+/Users/oleksandr/Desktop/ProgrammingCSharp/My Labs/lab4/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/oleksandr/Desktop/ProgrammingCSharp/My Labs/lab4/obj/Debug/net7.0/lab4.csproj.AssemblyReference.cache
+/Users/oleksandr/Desktop/ProgrammingCSharp/My Labs/lab4/obj/Debug/net7.0/lab4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oleksandr/Desktop/ProgrammingCSharp/My Labs/lab4/obj/Debug/net7.0/lab4.AssemblyInfoInputs.cache
+/Users/oleksandr/Desktop/ProgrammingCSharp/My Labs/lab4/obj/Debug/net7.0/lab4.AssemblyInfo.cs
+/Users/oleksandr/Desktop/ProgrammingCSharp/My Labs/lab4/obj/Debug/net7.0/lab4.csproj.CoreCompileInputs.cache
+/Users/oleksandr/Desktop/ProgrammingCSharp/My Labs/lab4/obj/Debug/net7.0/lab4.csproj.CopyComplete
+/Users/oleksandr/Desktop/ProgrammingCSharp/My Labs/lab4/obj/Debug/net7.0/lab4.dll
+/Users/oleksandr/Desktop/ProgrammingCSharp/My Labs/lab4/obj/Debug/net7.0/refint/lab4.dll
+/Users/oleksandr/Desktop/ProgrammingCSharp/My Labs/lab4/obj/Debug/net7.0/lab4.pdb
+/Users/oleksandr/Desktop/ProgrammingCSharp/My Labs/lab4/obj/Debug/net7.0/lab4.genruntimeconfig.cache
+/Users/oleksandr/Desktop/ProgrammingCSharp/My Labs/lab4/obj/Debug/net7.0/ref/lab4.dll
