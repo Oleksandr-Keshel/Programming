@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Students>
+  <Student Code="1">
+    <Surname>Henry</Surname>
+    <Group>CA21</Group>
+  </Student>
+  <Student Code="2">
+    <Surname>O'Connel</Surname>
+    <Group>CA22</Group>
+  </Student>
+  <Student Code="3">
+    <Surname>Silva</Surname>
+    <Group>CA22</Group>
+  </Student>
+  <Student Code="4">
+    <Surname>Ramos</Surname>
+    <Group>CA21</Group>
+  </Student>
+  <Student Code="5">
+    <Surname>William</Surname>
+    <Group>CA21</Group>
+  </Student>
+  <Student Code="6">
+    <Surname>Shaw</Surname>
+    <Group>CA22</Group>
+  </Student>
+</Students>

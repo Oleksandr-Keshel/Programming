@@ -1,0 +1,15 @@
+/Users/oleksandr/Desktop/ProgrammingCSharp/My Labs/module1/bin/Debug/net7.0/module1
+/Users/oleksandr/Desktop/ProgrammingCSharp/My Labs/module1/bin/Debug/net7.0/module1.deps.json
+/Users/oleksandr/Desktop/ProgrammingCSharp/My Labs/module1/bin/Debug/net7.0/module1.runtimeconfig.json
+/Users/oleksandr/Desktop/ProgrammingCSharp/My Labs/module1/bin/Debug/net7.0/module1.dll
+/Users/oleksandr/Desktop/ProgrammingCSharp/My Labs/module1/bin/Debug/net7.0/module1.pdb
+/Users/oleksandr/Desktop/ProgrammingCSharp/My Labs/module1/obj/Debug/net7.0/module1.csproj.AssemblyReference.cache
+/Users/oleksandr/Desktop/ProgrammingCSharp/My Labs/module1/obj/Debug/net7.0/module1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oleksandr/Desktop/ProgrammingCSharp/My Labs/module1/obj/Debug/net7.0/module1.AssemblyInfoInputs.cache
+/Users/oleksandr/Desktop/ProgrammingCSharp/My Labs/module1/obj/Debug/net7.0/module1.AssemblyInfo.cs
+/Users/oleksandr/Desktop/ProgrammingCSharp/My Labs/module1/obj/Debug/net7.0/module1.csproj.CoreCompileInputs.cache
+/Users/oleksandr/Desktop/ProgrammingCSharp/My Labs/module1/obj/Debug/net7.0/module1.dll
+/Users/oleksandr/Desktop/ProgrammingCSharp/My Labs/module1/obj/Debug/net7.0/refint/module1.dll
+/Users/oleksandr/Desktop/ProgrammingCSharp/My Labs/module1/obj/Debug/net7.0/module1.pdb
+/Users/oleksandr/Desktop/ProgrammingCSharp/My Labs/module1/obj/Debug/net7.0/module1.genruntimeconfig.cache
+/Users/oleksandr/Desktop/ProgrammingCSharp/My Labs/module1/obj/Debug/net7.0/ref/module1.dll
