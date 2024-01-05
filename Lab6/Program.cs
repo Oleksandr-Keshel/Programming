@@ -133,7 +133,7 @@ namespace Lab5
 
             }
 
-            static void printAuthors(List<Author> authors)
+            void printAuthors(List<Author> authors)
             {
                 foreach (var author in authors)
                 {
